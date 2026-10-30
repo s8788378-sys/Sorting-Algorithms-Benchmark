@@ -1,5 +1,6 @@
 package sortingbenchmark;
-import java.util.Arrays; import java.util.Random;
+import java.util.Arrays; 
+import java.util.Random;
 public class SortingBenchmark {
 public static void main(String[] args) {
     int size = 100000;
