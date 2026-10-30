@@ -45,3 +45,6 @@ Analysis
  Best algorithm for sorted / partially sorted data: Insertion Sort and Bubble Sort perform exceptionally fast (< 400 µs) on sorted or partially sorted data due to early exit and minimal swaps, approaching O(N) best-case efficiency.
  
  Quick Sort behavior: Worst case happens when the pivot is the min/max, e.g., first/last element on sorted data leading to O(N²); this code uses median-of-three to avoid it and maintain stable performance.
+
+<img width="1169" height="625" alt="image" src="https://github.com/user-attachments/assets/321d8cca-13fb-43fc-8007-6950c5b2322d" />
+ 
