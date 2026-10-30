@@ -16,19 +16,8 @@ in 4 cases: Random, Reversed, Partially Sorted (~80%), Fully Sorted.
 
 Time is measured with System.nanoTime() and converted to microseconds (µs). Only the sorting time is measured (the array copy is excluded).
 
-Results (µs)
+<img width="1139" height="580" alt="image" src="https://github.com/user-attachments/assets/06f81327-7bb0-4a62-ac7b-b76a1e3abe49" />
 
-Algorithm | Random | Reversed | Partially Sorted | Fully Sorted
-
-Selection Sort | 9,697,699 | 10,761,692 | 4,336,639 | 4,317,796
-
-Insertion Sort | 2,002,455 | 3,258,867 | 370 | 312
-
-Bubble Sort | 37,643,117 | 22,296,091 | 315 | 145
-
-Merge Sort | 41,216 | 14,884 | 15,443 | 11,119
-
-Quick Sort | 37,454 | 14,242 | 17,934 | 13,696
 
 Chart
 
